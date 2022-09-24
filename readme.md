@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Erik Mihálik
-2.
+2. Dominik Šidlo
 3.
 4.
