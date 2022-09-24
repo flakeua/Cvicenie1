@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Erik Mihálik
 2. Dominik Šidlo
 3. Dmytro Herashchenko
-4.
+4. Martin Letenay
